@@ -1,4 +1,7 @@
 div {
     color: white;
-    background-color: red
+    background-color: red;
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
 }
